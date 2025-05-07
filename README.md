@@ -127,11 +127,11 @@ However, a general target range of 8,000–10,000 steps per day is suitable for 
 
 Based on this, users currently fall short of the recommended goal (Our result: 6,662 steps/day).
 
-We suggest implementing a customizable daily step goal, ideally between 8,000 and 12,000 steps. When users reach their goal, they should receive a notification.
+- We suggest implementing a customizable daily step goal, ideally between 8,000 and 12,000 steps. When users reach their goal, they should receive a notification.
 
 Additionally, we observed that users are most active between 5PM and 8PM, which aligns with the time most people finish work.
 
-A notification during this time encouraging users to complete their daily step goal could help increase engagement.
+- A notification during this time encouraging users to complete their daily step goal could help increase engagement.
 
 ii) According to our research, users tend to be sedentary for the majority of the day (~545 minutes – 73%). 
 
