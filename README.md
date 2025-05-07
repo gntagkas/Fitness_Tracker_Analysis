@@ -109,7 +109,13 @@ Note: We chose to deduct the average sleep time from the sedentary period to pro
 
 ### 5. Visualizations 
 
+Below is a dashboard summarizing the key findings from our analysis:
+
 ![DashBoard](https://github.com/gntagkas/Fitness_Tracker_Analysis/blob/main/Graphs/Dashboard.png)
+
+**Chart 1: Summary Dashboard of Our Analysis**
+<br><br>
+The dashboard presents the main results of our project in a visual format, making the analysis easier to interpret.
 
 ---
 
