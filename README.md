@@ -48,6 +48,7 @@ You will produce a report with the following deliverables:
 5. Supporting visualizations and key findings
 6. Your top high-level content recommendations based on your analysis
 
+
 ##  Report
 
 ### 1. Business Task
