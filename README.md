@@ -109,7 +109,7 @@ Note: We chose to deduct the average sleep time from the sedentary period to pro
 
 ### 5. Visualizations 
 
-![Line Chart](https://github.com/gntagkas/Fitness_Tracker_Analysis/blob/main/Graphs/Screenshot_3.png)
+![DashBoard](https://github.com/gntagkas/Fitness_Tracker_Analysis/blob/main/Graphs/Dashboard.png)
 
 ---
 
