@@ -80,3 +80,23 @@ While the dataset contains valuable information about users, the sample size is 
 Furthermore having access to other factors, such as gender or age group, would allow for deeper and more targeted insights.
 
 Despite these limitations, the dataset still allows us to identify trends and propose useful ideas and directions to BellaBeat stakeholders.
+
+### 3. Data Cleaning & Manipulation
+
+We decided to carry out our data cleaning using excel. In the minute_sleep file, we identified only one issue: approximately 560 duplicate values, all of which were removed. No other issues were found.
+
+Afterwards, we decided to work with SQL (PostgreSQL) and successfully inserted all our data into the tables without any issues. We assumed that no data manipulation would be necessary.
+
+### 4. Analysis Summary
+
+Based on our analysis our findings are:
+
+- On average, users take 6,662 steps, cover 4.66 km and burn approximately 2,189 calories per day.
+- The daily average sleep time is 7 hours and 30 minutes.
+- On average, users get more sleep on Saturdays and the least on Fridays. 
+- There aren’t significant differences in steps across the days of the week. Wednesday has the highest average number of steps, while Sunday has the lowest.
+- Most users wake up between 6 AM and 8 AM. They are most active, in terms of steps, between 12PM-1PM and between 5PM-8PM, gradually becoming less active after 8PM.
+- There is a positive correlation between steps and calories. The more steps someone takes, the more calories they burn
+- Users tend to be sedentary for the majority of the day (~545 minutes – 73%), followed by being lightly active (~170 minutes – 23%), very active (~17 minutes – 2%), and fairly active (~13 minutes – 2%). 
+- There aren't significant differences in activity (sedentary, lightly active etc) across the days of the week.
+Note: We chose to deduct the average sleep time from the sedentary period to produce more accurate results.
