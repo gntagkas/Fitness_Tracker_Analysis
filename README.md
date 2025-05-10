@@ -104,7 +104,8 @@ Based on our analysis our findings are:
 - There is a positive correlation between steps and calories. The more steps someone takes, the more calories they burn
 - Users tend to be sedentary for the majority of the day (~545 minutes – 73%), followed by being lightly active (~170 minutes – 23%), very active (~17 minutes – 2%), and fairly active (~13 minutes – 2%). 
 - There aren't significant differences in activity (sedentary, lightly active etc) across the days of the week.
-Note: We chose to deduct the average sleep time from the sedentary period to produce more accurate results.
+
+*Note: We chose to deduct the average sleep time from the sedentary period to produce more accurate results.*
 
 ---
 
@@ -122,12 +123,12 @@ The dashboard presents the main results of our project in a visual format, makin
 
 ### 6. Recommendations
 
-i) Αccording to research, the recommended number of daily steps varies depending on factors such as age, health goals, and physical condition. 
+i) Αccording to research, the recommended number of daily steps varies depending on factors such as age, health goals and physical condition. 
 However, a general target range of 8,000–10,000 steps per day is suitable for most people.
 
 Based on this, users currently fall short of the recommended goal (Our result: 6,662 steps/day).
 
-- We suggest implementing a customizable daily step goal, ideally between 8,000 and 12,000 steps. When users reach their goal, they should receive a notification.
+- We suggest implementing a customizable daily step goal, ideally between 8,000 and 12,000 steps. When users reach their goal they should receive a notification.
 
 Additionally, we observed that users are most active between 5PM and 8PM, which aligns with the time most people finish work.
 
@@ -135,7 +136,7 @@ Additionally, we observed that users are most active between 5PM and 8PM, which 
 
 ii) According to our research, users tend to be sedentary for the majority of the day (~545 minutes – 73%). 
 
-The 73% sedentary time aligns with findings from health studies on modern lifestyles but it can cause serious problems. We will share some reccomendations to make user more active.
+The 73% sedentary time aligns with findings from health studies on modern lifestyles but it can cause serious problems. We will share some reccomendations to make users more active.
 
 Daily Target Of Small Movements: 
 
